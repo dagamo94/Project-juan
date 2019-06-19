@@ -1,0 +1,56 @@
+#jumbotron-title {
+    font-size: 6.5rem;
+}
+
+#jumbotron {
+    background-color: #26a69a;
+    color:aliceblue;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+img {
+    width: auto; 
+    height: auto; 
+    max-width: 150px; 
+    /* max-height: 100px; */
+}
+
+.yelpImg{
+    border-radius: 10px;
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* .jumbotron-fluid {
+    background-color: antiquewhite;
+} */
+
+tr:hover {
+    background-color: lightgray;
+  }
+
+#map{
+    height: 400px;
+    width: 100%; 
+}
+
+#directions{
+    width: 100%;
+    height: 400px;
+}
+
+#directions p{
+    text-align: center;
+}
+
+label {
+    font-size: 2.8rem;
+}
+
+#searchp {
+    color: #9e9e9e;
+    font-size: 18px;
+}
